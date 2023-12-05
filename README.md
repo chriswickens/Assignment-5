@@ -11,6 +11,7 @@ To get started, please type **"www.xyz.com"** into your browsers location bar.
 1. **Selecting a movie**
 
    - Click the TIME of the movie you wish to see.
+     ![pick a movie](https://github.com/chriswickens/Assignment-5/blob/master/designs/XYZmainScreen.png?raw=true)
 
 2. **Select how many tickets**
 
@@ -41,6 +42,8 @@ After selecting a movie and/or concessions and entering your payment information
 
 - If you wish to have a physical copy of the tickets, simply press the **_PRINT_** button!
 - If you want to have the tickets emailed to you click the **_Email Me_** button!
+
+![print or email tickets](https://github.com/chriswickens/Assignment-5/blob/master/designs/XYZpurchaseComplete.png?raw=true)
 
 Whatever choice you make, we can scan the tickets right from your email at the movie theatre!
 
