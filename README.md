@@ -4,42 +4,43 @@ Welcome to the User Guide for [XYZ](www.xyz.com) Cinemas website, this will show
 
 ## Getting Started
 
-To get started, please go to the website **"www.xyz.com"** into your browser.
+To get started, please type **"www.xyz.com"** into your browsers location bar.
 
 ## Selecting a Movie
 
 1. **Selecting a movie**
 
-   - Click the TIME of the movie you wish to see
+   - Click the TIME of the movie you wish to see.
 
 2. **Select how many tickets**
 
-   - Using the up/down arrows, or typing the number to get the amount of tickets you want
+   - Use the up/down arrows to add or remove tickets, or typing the number to get the amount of tickets you want.
 
 3. **Adding Concessions**
 
-   - Click the + (plus) button to Add Concessions
+   - Click the + (plus) button to Add Concessions.
    - This will bring you to the concession screen where you can add drinks and/or snacks to your order!
 
-4. **Once you have your movie and concessions**
-   - Click the Continue to Checkout button to complete your purchase
-   - Or, click Cancel to start over
+4. **Once you have your movie and concessions selected**
+   - Click the Continue to Checkout button to complete your purchase.
+   - Or, click Cancel to start over.
 
 ## Completing Your Transaction
 
-After selecting your movie and/or concessions, you will need the following:
+After making your selections, you will need the following:
 
 1. The names for the tickets
-2. A credit valid credit card
+2. A valid credit card
 
 Enter your information into the Checkout & Print Tickets screen, and click Print!
+![checkout](https://github.com/chriswickens/Assignment-5/blob/master/designs/XYZcheckout.png?raw=true)
 
 ## To Print or To Email?
 
-After selecting a movie and/or concessions, and entering your payment information, you will need a copy of your tickets!
+After selecting a movie and/or concessions and entering your payment information, you will need a copy of your tickets!
 
-- If you wish to have a physical copy of the tickets, simply press the _PRINT_ button!
-- If you want to have the tickets emailed to you click the _Email Me_ button!
+- If you wish to have a physical copy of the tickets, simply press the **_PRINT_** button!
+- If you want to have the tickets emailed to you click the **_Email Me_** button!
 
 Whatever choice you make, we can scan the tickets right from your email at the movie theatre!
 
