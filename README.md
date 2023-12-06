@@ -1,6 +1,6 @@
 # User Guide for XYZ Cinemas
 
-Welcome to the User Guide for [XYZ](www.xyz.com) Cinemas website, this will show you how to quickly order tickets for a movie online!
+Welcome to the User Guide for the [XYZ](www.xyz.com) Cinemas website, this will show you how to quickly order tickets for a movie online!
 
 ## Getting Started
 
@@ -10,12 +10,12 @@ To get started, please type **"www.xyz.com"** into your browsers location bar.
 
 1. **Selecting a movie**
 
-   - Click the TIME of the movie you wish to see.
+   - Click the **_TIME_** of the movie you wish to see.
      ![pick a movie](https://github.com/chriswickens/Assignment-5/blob/master/designs/XYZmainScreen.png?raw=true)
 
 2. **Select how many tickets**
 
-   - Use the up/down arrows to add or remove tickets, or typing the number to get the amount of tickets you want.
+   - Use the up/down arrows to add or remove tickets, or type the number to get the amount of tickets you want.
 
 3. **Adding Concessions**
 
@@ -45,7 +45,7 @@ After selecting a movie and/or concessions and entering your payment information
 
 ![print or email tickets](https://github.com/chriswickens/Assignment-5/blob/master/designs/XYZpurchaseComplete.png?raw=true)
 
-Whatever choice you make, we can scan the tickets right from your email at the movie theatre!
+Whatever choice you make, we can scan the tickets right from your phone at the movie theatre!
 
 That's it, you're done ordering your movie tickets!
 
